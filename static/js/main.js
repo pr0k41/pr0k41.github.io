@@ -10873,7 +10873,7 @@
                         children: [
                             (0, ft.jsx)(At, { src: n }),
                             (0, ft.jsx)(Pt, {
-                                placeholder: "Always stay clean!",
+                                placeholder: "Search",
                                 type: "input",
                                 onKeyUp: function (n) {
                                     return (
