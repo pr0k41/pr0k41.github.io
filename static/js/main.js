@@ -10534,14 +10534,9 @@
                 tt = n.p + "static/media/yags-black-white.f9d2b9f7b5bf11532336.gif",
                 nt = [
                     {
-                        title: "Anime",
+                        title: "System",
                         links: [
-                            { label: "Zoro", value: "https://zoro.to/home" },
-                            { label: "Shiro", value: "https://shiro.is/home" },
-                            { label: "Simplyaweeb", value: "https://simplyaweeb.to" },
-                            { label: "9anime", value: "https://9anime.id/home" },
-			    { label: "Animepahe", value: "https://animepahe.com" },
-			    { label: "Animesuge", value: "https://animesuge.to/home" }
+                            { label: "Calendar", value: "https://calendar.google.com/" },
                         ],
                     },
                     {
