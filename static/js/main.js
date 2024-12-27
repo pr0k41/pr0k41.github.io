@@ -10844,7 +10844,7 @@
                 };
             var wt = n.p + "static/media/ecosia.684173610b02f20c8a393ebc2fe49a1a.svg";
             var kt = n.p + "static/media/google.35cb91e86c1f97290021370ae33bedb7.svg";
-            var St = n.p + "static/media/duckduckgo.ae4e5e007a6260841f7e0374942a4c0c.svg";
+            var St = n.p + "static/media/search-svgrepo-com.svg";
             var _t,
                 Et,
                 Ct,
