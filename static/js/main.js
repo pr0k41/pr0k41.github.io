@@ -10544,7 +10544,7 @@
                         title: "Media",
                         links: [
                             { label: "YT", value: "https://youtube.com/" },
-							{ label: "YT Music", value: "https://music.youtube.com/"
+							{ label: "YT Music", value: "https://music.youtube.com/" },
                         ],
                     },
                 ],
