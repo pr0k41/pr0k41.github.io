@@ -10537,45 +10537,14 @@
                         title: "System",
                         links: [
                             { label: "Calendar", value: "https://calendar.google.com/" },
+							{ label: "Notion", value: "https://notion.so/" },
                         ],
                     },
                     {
-                        title: "Manga",
+                        title: "Media",
                         links: [
-                            { label: "Mangareader", value: "https://mangareader.to" },
-                            { label: "Mangadex", value: "https://mangadex.org" },
-                            { label: "Comick", value: "https://comick.fun" },
-                            { label: "Manhua", value: "https://manhuaplus.com" },
-                            { label: "Manga4life", value: "https://manga4life.com" },
-                            { label: "Mangasee", value: "https://mangasee123.com" },
-                        ],
-                    },
-                    {
-                        title: "Tracking",
-                        links: [
-                            { label: "Anilist", value: "https://anilist.co" },
-                            { label: "My Anime List", value: "https://myanimelist.net" },
-                            { label: "Kitsu", value: "https://kitsu.io" },
-                            { label: "Simkl", value: "https://simkl.com/anime" },
-                        ],
-                    },
-                    {
-                        title: "Git",
-                        links: [
-                            { label: "Github", value: "https://github.com" },
-                            { label: "Gitlab", value: "https://gitlab.com" },
-                            { label: "Codeberg", value: "https://codeberg.org" },
-                            { label: "Bitbucket", value: "https://bitbucket.org" },
-                            { label: "Codegiant", value: "https://codegiant.io" }
-                        ],
-                    },
-                    {
-                        title: "Socials",
-                        links: [
-                            { label: "Youtube", value: "https://youtube.com" },
-                            { label: "Instagram", value: "https://instagram.com" },
-                            { label: "Discord", value: "https://discord.com/channels/@me" },
-                            { label: "Reddit", value: "https://reddit.com" },
+                            { label: "YT", value: "https://youtube.com/" },
+							{ label: "YT Music", value: "https://music.youtube.com/"
                         ],
                     },
                 ],
